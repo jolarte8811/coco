@@ -1,0 +1,76 @@
+{ "pois": [
+  {
+    "name": "Parque Central",
+    "rating": 4.8,
+    "lilDescription": "Recorrer el parque de Jardin Antioquia es un placer, sus calles empedradas, sus balcones coloridos y llenos de flores, casas de puertas abiertas donde basta con pedir permiso para entrar y disfrutas de su arquitectura, la calidez de sus habitantes y el aroma a café en cualquier esquina hacen que caminar por el centro historico te lleve en un viaje al pasado",
+    "image": "https://i.imgur.com/l2zC6ES.jpg",
+    "temperature": 18,
+    "lat": 5.5986938,
+    "long":-75.8190235
+  },
+  {
+    "name": "Puente Pizano",
+    "rating": 4.4,
+    "lilDescription": "Puente construido en 1943 con piedras labradas, las mismas que fueron utilizadas para construir el hospital y la iglesia de Jardín Antioquia.",
+    "image": "https://i.imgur.com/TJNIdLb.jpg",
+    "temperature": 20,
+     "lat": 5.600470073,
+    "long":-75.8304556
+  },
+  {
+    "name": "Cueva del Esplendor",
+    "rating": 4.9,
+    "lilDescription": "Comienza con un recorrido en Jeep Willis por las carreteras de Jardín Antioquia hasta llegar a la entrada de la Reserva, en donde iniciarás senderismo hasta llegar a la Cueva del Esplendor. El tiempo para estar dentro de la cueva es de 35 a 50 minutos según la afluencia de los usuarios y el clima del día.",
+    "image": "https://i.imgur.com/ZwnGNR9.jpg",
+    "temperature": 21,
+    "lat":5.642759,
+    "long":-75.807962
+  },
+  {
+    "name": "Salto del Ángel",
+    "rating": 4.5,
+    "lilDescription": "Se encuentra en la parte alta de la quebrada La Salada en la vereda del mismo nombre a cinco kilómetros de la cabecera municipal. Es una cascada natural con caída vertical de cincuenta metros, rodeada de enormes paredes rocosas de la misma altura. En su base se encuentra una cueva natural habitada de murciélagos e insectos",
+    "image": "https://i.imgur.com/aY65HOe.jpg",
+    "temperature": 22,
+    "lat":5.61906516649,
+    "long":-75.7810967
+  },
+  {
+    "name": "Santuario Guácharos",
+    "rating": 4.6,
+    "lilDescription": "A 25 minutos del Salto del Ángel se encuentra el Santuario, impresionante formación rocosa en la unión de dos ríos. El retorno al casco urbano se realiza por la vereda La Salada, desde donde se observa una hermosa panorámica del municipio pasando por los Pozos Dorados (continuo de cascadas) y La Escalera donde nos espera el carro.",
+    "image": "https://i.imgur.com/qkwu0vr.jpg",
+    "temperature": 20,
+    "lat": 5.619339763,
+    "long":-75.7859999
+  },
+   {
+    "name": "La Garrucha",
+    "rating": 4.5,
+    "lilDescription": "La Garrucha es un medio de transporte artesanal lleno de encanto, que conecta el pueblo de Jardín con la vereda Serranías.  Los viajeros suben a una cabina hecha de madera colgados por cables que se extienden a través de un profundo barranco. Originalmente, La Garrucha se construyó como un medio de transporte para personas, suministros y productos (café y plátano principalmente) entre el centro de Jardín y el área agrícola hacia el sur,Los viajes se realizan cada 30 minutos.",
+    "image": "https://i.imgur.com/F0AJuRw.jpg",
+    "temperature": 22,
+    "lat":5.59212887,
+    "long":-75.820238675
+  },
+
+  {
+    "name": "Basílica",
+    "rating": 4.7,
+    "lilDescription": "La construcción más imponente de El Jardín es la iglesia de la Inmaculada Concepción, que es Basílica Menor. Sobresale por su estilo gótico y por haber sido levantada con piedras labradas a mano que los feligreses traían de una cantera como penitencia por sus pecados. Fue erigida entre 1918 y 1942. Desde su campanario se observa una panorámica del municipio y de las montañas que lo rodean.",
+    "image": "https://i.imgur.com/bbb0Yrz.jpg",
+    "temperature": 21,
+    "lat": 5.598883326,
+    "long":-75.8188108639
+  },
+  {
+    "name": "Gallito de Roca",
+    "rating": 4.5,
+    "lilDescription": "Esta pequeña reserva natural situada en las afueras de la ciudad es el escenario de uno de los espectáculos naturales más impresionantes de Jardín. Cada mañana temprano y al atardecer, numerosos gallitos de las rocas vuelan para chillar, bailar y mostrar su brillante plumaje rojo en un intento de impresionar a las damas de la especie. ",
+    "image": "https://i.imgur.com/KhP3S3M.jpg",
+    "temperature": 22,
+    "lat": 5.596138076,
+    "long":-75.821276421
+  }
+]
+}
